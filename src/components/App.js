@@ -16,11 +16,10 @@ return (
         </div>
     </nav>
 <div className="relative h-[888px] overflow-hidden "> 
-    <div className="bg-[#095F59] w-[2500px] h-[780px] absolute bottom-[-250px] rotate-[-8deg] left-[-10px] "></div>
+    <div className="bg-[#095F59] w-[2500px] h-[780px] absolute bottom-[-250px] rotate-[-8deg] left-[-10px] "> </div>
     <div className="absolute top-0 left-0 w-full h-full flex justify-center items-center ">{/*bu div ile login divini sarıp login kısmını arka planın önünde olmasını sağlıyoruz*/}
-    <div className="absolute bottom-[-15px] opacity-80 left-[100px] w-[150px]">
-    <div className="bg-[#15886f]  rounded-full absolute left-[100px] bottom-[350px] w-[150px] h-[150px]"></div>
-    <div className="bg-[#095F59] opacity-50 rounded-full absolute left-[115px] bottom-[365px] w-[120px] h-[120px]"></div>
+    <div className="absolute bottom-[35%] opacity-80 left-[5%] w-[150px]">
+    <div className="bg-[#095F59]  rounded-full absolute left-[35%] bottom-[50%] border-[20px] border-[#1e836d] w-[180px] h-[180px]"></div>
     </div>
 
     <div className="absolute bottom-[-410px] right-[150px] w-[150px]">
